@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6e11a22f829ac5686025ce4586c16ca",
+    "revision": "c369145275123bc476069f9e1ac7b3b4",
     "url": "/caro-react/index.html"
   },
   {
-    "revision": "324946179ae29d88cbfe",
+    "revision": "271ec22ecc5eca8be4c0",
     "url": "/caro-react/static/css/main.836e8618.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/caro-react/static/js/2.804da0e0.chunk.js"
   },
   {
-    "revision": "324946179ae29d88cbfe",
-    "url": "/caro-react/static/js/main.5b9e9c70.chunk.js"
+    "revision": "271ec22ecc5eca8be4c0",
+    "url": "/caro-react/static/js/main.fafdb299.chunk.js"
   },
   {
     "revision": "8a07caf110a6bc8ae724",
