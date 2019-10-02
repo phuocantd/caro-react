@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/caro-react/static/css/main.b100e6da.chunk.css",
+    "main.js": "/caro-react/static/js/main.9591e6de.chunk.js",
+    "main.js.map": "/caro-react/static/js/main.9591e6de.chunk.js.map",
+    "runtime-main.js": "/caro-react/static/js/runtime-main.13c3267c.js",
+    "runtime-main.js.map": "/caro-react/static/js/runtime-main.13c3267c.js.map",
+    "static/js/2.57ae88ef.chunk.js": "/caro-react/static/js/2.57ae88ef.chunk.js",
+    "static/js/2.57ae88ef.chunk.js.map": "/caro-react/static/js/2.57ae88ef.chunk.js.map",
+    "index.html": "/caro-react/index.html",
+    "precache-manifest.a1d6e0824b0aae814bb2c71a73b95ed4.js": "/caro-react/precache-manifest.a1d6e0824b0aae814bb2c71a73b95ed4.js",
+    "service-worker.js": "/caro-react/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/caro-react/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/caro-react/static/media/logo.25bf045c.svg"
+  }
+}
