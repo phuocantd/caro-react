@@ -1,12 +1,16 @@
-import React from 'react';
+import React from "react";
 
 export default function Square(props) {
-    return (
-        <button
-            className={"square " + (props.curClick ? 'square-click' : '') + (props.isWin ? 'square-win' : '')}
-            onClick={props.onClick}
-        >
-            {props.value}
-        </button>
-    );
+  const { onClick, value, isWin, curClick } = props;
+  return (
+    <button
+      type="button"
+      className={`square ${curClick ? "square-click" : ""} + ${
+        isWin ? "square-win" : ""
+      }`}
+      onClick={onClick}
+    >
+      {value}
+    </button>
+  );
 }
