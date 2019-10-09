@@ -1,12 +1,12 @@
 import React from 'react';
-import Board from './Board';
-import '../App.css';
+import '../style/App.css';
+import BoardContainer from '../containers/BoardContainer'
 
 function App() {
   return (
-    <>
-      <Board size={20} />
-    </>
+    <div>
+      <BoardContainer />
+    </div>
   );
 }
 
